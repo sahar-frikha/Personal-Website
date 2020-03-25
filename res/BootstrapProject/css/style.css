@@ -1,0 +1,13 @@
+/*.image{
+	width: 300px;
+	height: 200px;
+}
+.container-fluid{
+	padding-right: 0!important;
+	padding-left: none;
+}*/
+@media screen and (max-width: 768px){
+	#he4a>h1,#he4a>p{
+		font-size:12px;
+	}
+}

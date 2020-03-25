@@ -1,0 +1,30 @@
+body{
+	background-image: url("../res/image3.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+input:hover{
+	background-color:grey;
+	border: 2px solid black;
+}
+h3{
+	color: #FF1493;
+}
+button{
+	border: 2px solid grey;
+}
+button:hover{
+	background-color: #FF1493;
+	color: black;
+}
+span{
+	color: grey;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+#Send{
+	background-color:#FF1493;
+	border: 2px solid black;
+}

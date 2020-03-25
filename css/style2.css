@@ -1,0 +1,26 @@
+a{
+	text-decoration: none;
+	color: black;
+}
+button{
+	border: 2px solid grey;
+}
+button:hover{
+	background-color: #FF1493;
+	color: black;
+}
+p{
+	width: 28%;
+	display: inline-block;
+}
+img{
+	width: 400px;
+	height: 200px;
+	padding-left: 20px;
+}
+h2{
+	color: #FF1493;
+}
+a>p{
+	color: #FF1493;
+}
